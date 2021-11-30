@@ -1,0 +1,12 @@
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/bin/Debug/netcoreapp3.1/Human.deps.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/bin/Debug/netcoreapp3.1/Human.runtimeconfig.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/bin/Debug/netcoreapp3.1/Human.runtimeconfig.dev.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/bin/Debug/netcoreapp3.1/Human.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/bin/Debug/netcoreapp3.1/Human.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/obj/Debug/netcoreapp3.1/Human.csprojAssemblyReference.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/obj/Debug/netcoreapp3.1/Human.AssemblyInfoInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/obj/Debug/netcoreapp3.1/Human.AssemblyInfo.cs
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/obj/Debug/netcoreapp3.1/Human.csproj.CoreCompileInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/obj/Debug/netcoreapp3.1/Human.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/obj/Debug/netcoreapp3.1/Human.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Human/obj/Debug/netcoreapp3.1/Human.genruntimeconfig.cache
